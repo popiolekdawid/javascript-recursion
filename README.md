@@ -1,5 +1,8 @@
 # javascript-recursion
-replace '-' and ' ' characters in property names of the object with '_'.
+
+This is my solution to a live coding task I was assigned at a job interview.
+
+Write a Javascript program to replace '-' and ' ' characters in property names of the "data" object with '_'.
 
 ```js
 var data = {
