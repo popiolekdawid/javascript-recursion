@@ -1,7 +1,7 @@
 # javascript-recursion
-replace '-' and ' ' characters in property names of an object with '_'
+replace '-' and ' ' characters in property names of the object with '_'.
 
-'''
+```js
 var data = {
 	'a-bxx': {
   	'c d': {
@@ -34,5 +34,4 @@ function fun(obj) {
 fun(data);
 
 console.log(data);
-
-'''
+```
